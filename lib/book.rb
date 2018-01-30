@@ -2,6 +2,6 @@ class Book
   def initialize(title)
   end
   
-  attr_accessor()
+  attr_accessor(:title)
 end
 
